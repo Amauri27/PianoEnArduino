@@ -1,0 +1,2 @@
+Simulación de las teclas de un piano, además graba, edita o borra las melodias que creas, puedes ver el estatus, es decir, si hay canciones agregadas y cuales exiten. Puedes cambiar a modo Manual o Automático:
+Manual para agregar canciones o Automático para tocar sin realizar ninguna acción y por últmo apagar o encender el piano. Esto lo realizas mediante la interfaz de usuario presentada en el Monitor 
