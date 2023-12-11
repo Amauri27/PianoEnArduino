@@ -1,2 +1,3 @@
 Simulación de las teclas de un piano, además graba, edita o borra las melodias que creas, puedes ver el estatus, es decir, si hay canciones agregadas y cuales exiten. Puedes cambiar a modo Manual o Automático:
-Manual para agregar canciones o Automático para tocar sin realizar ninguna acción y por últmo apagar o encender el piano. Esto lo realizas mediante la interfaz de usuario presentada en el Monitor 
+Manual para agregar canciones o Automático para tocar sin realizar ninguna acción y por últmo apagar o encender el piano. Esto lo realizas mediante la interfaz de usuario presentada en el Monitor Serial.
+Simulador en Tinkercad: https://www.tinkercad.com/things/ehGekvdhFai-piano-actividad-20-final/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits%26pageSize%3D24%26page%3D0&sharecode=8ezhdMpGh2oZL0kwjldsUklO55X0g3lBE8oGLoikfYw
